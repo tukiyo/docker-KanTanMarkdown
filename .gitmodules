@@ -1,0 +1,3 @@
+[submodule "KanTanMarkdown"]
+	path = KanTanMarkdown
+	url = https://github.com/tukiyo/KanTanMarkdown
